@@ -1,0 +1,6 @@
+name: EverythingIsASkill
+version: @version@
+main: dev.hunterjarrell.mc.everythingisaskill.EverythingIsASkill
+api-version: 1.17
+description: Literally everything is a skill
+website: mc.hunterjarrell.dev
